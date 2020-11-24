@@ -1,5 +1,8 @@
 .text {
+  font-family: RobotoMono-Bold;
+  font-size: 48px;
   color: #e8c4b8;
+  text-align: center;
 }
 
 .bg {
